@@ -13,6 +13,8 @@
 #1.1
 #Update for latest MPV
 #https://docs.python.org/2.3/whatsnew/section-slices.html
+#
+#Updated version of https://github.com/kuehnelth/xchat_mpv_np/blob/master/xchat_mpv_np_windows.py
 
 __module_name__ = "mpv now playing"
 __module_version__ = "2.0"
